@@ -1,0 +1,14 @@
+.img-largeCard{
+    height: 70vh;
+}
+.card{
+    border: none;
+}
+.text-style{
+    /* color: rgba(210,168,142,255); */
+    color: rgba(255,255,255,255);
+
+}
+.text-size{
+    font-size: xx-large;
+}
